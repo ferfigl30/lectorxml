@@ -1,0 +1,10 @@
+C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\LectorXML\LectorXML\LectorXML\bin\Debug\LectorXML.exe.config
+C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\LectorXML\LectorXML\LectorXML\bin\Debug\LectorXML.exe
+C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\LectorXML\LectorXML\LectorXML\bin\Debug\LectorXML.pdb
+C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\LectorXML\LectorXML\LectorXML\bin\Debug\LectorXML.xml
+C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\LectorXML\LectorXML\LectorXML\obj\Debug\LectorXML.frmLectorXML.resources
+C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\LectorXML\LectorXML\LectorXML\obj\Debug\LectorXML.Resources.resources
+C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\LectorXML\LectorXML\LectorXML\obj\Debug\LectorXML.vbproj.GenerateResource.Cache
+C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\LectorXML\LectorXML\LectorXML\obj\Debug\LectorXML.exe
+C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\LectorXML\LectorXML\LectorXML\obj\Debug\LectorXML.xml
+C:\Users\sistemas\Documents\FFL\CLIENTES\GACSE\LectorXML\LectorXML\LectorXML\obj\Debug\LectorXML.pdb
